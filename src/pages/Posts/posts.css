@@ -1,0 +1,23 @@
+
+
+.delete-post-pic {
+    width: 5px;
+    height: 5px;
+    float: right;
+    margin-right: 20px;
+    cursor: pointer;
+
+}
+
+.comments-pic {
+    width: 30px;
+    height: 5px;
+    float: left;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.answer-on-comment{
+    cursor: pointer;
+    float: right;
+}
